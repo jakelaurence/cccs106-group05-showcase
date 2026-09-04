@@ -69,14 +69,14 @@ def get_initial_team() -> List[TeamMember]:
         # Replace Developer 3 profile with your real student details:
         # ----------------------------------------------------------------------
         TeamMember(
-            student_id="[Dev 3] Student ID Here",  # example: "2024-10789"
-            full_name="[Dev 3] Student Name Here", # example: "Angelo Reyes"
+            student_id="2414876",
+            full_name="Kurt Hearick Mangente",
             role="QA & Feature Engineer",
             specialization="Testing Diagnostics, Theme Engine & Controls",
-            github_handle="@dev3-github",          # example: "@areyes-cspc"
+            github_handle="@kurtmangen10",
             avatar_icon=ft.Icons.BUG_REPORT,
             accent_color=ft.Colors.INDIGO_700,
-            photo_url="/dev3.jpg",                 # Photo: local asset or URL (e.g. "https://github.com/dev3-github.png")
+            photo_url="https://github.com/kurtmangen10.png",                 # Photo: local asset or URL (e.g. "https://github.com/dev3-github.png")
         ),
     ]
     return members
