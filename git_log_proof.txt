@@ -1,0 +1,14 @@
+* 7806b2b feat(milestone): integrate developer 3 profile and sprint goal milestone badge
+| * e1a359a feat(state): integrate developer 2 profile and task counter handlers
+|/  
+*   03bb85a Merge branch 'feature/dev2-state'
+|\  
+| * 1212afb fix(profile): restore developer 2 profile details
+| * caa3848 style(profile): clean developer 2 profile comments
+* | d01dc2a style(profile): remove developer 2 example comments
+* | c6f6082 Merge pull request #1 from jakelaurence/feature/dev2-state
+|\| 
+| * a2b06d9 feat(state): integrate developer 2 profile and task counter handlers
+|/  
+* f6e874e feat(profile): integrate developer 1 profile card
+* 91953f9 chore(init): baseline repository with modern flet app and verification tool
