@@ -1,6 +1,5 @@
+* a3158de docs(screenshots): add laboratory verification proofs
 * 7806b2b feat(milestone): integrate developer 3 profile and sprint goal milestone badge
-| * e1a359a feat(state): integrate developer 2 profile and task counter handlers
-|/  
 *   03bb85a Merge branch 'feature/dev2-state'
 |\  
 | * 1212afb fix(profile): restore developer 2 profile details
