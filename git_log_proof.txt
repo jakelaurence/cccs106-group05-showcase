@@ -1,3 +1,4 @@
+* c20a0fa docs(git): add complete commit tree proof
 * cb25349 docs(screenshots): add laboratory verification proofs
 * 61181e3 docs(git): update ASCII commit history proof
 * a3158de docs(screenshots): add laboratory verification proofs
