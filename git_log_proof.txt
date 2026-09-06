@@ -1,3 +1,5 @@
+* 381693b docs(screenshots): correct dark mode screenshot filename
+* a27bbd6 docs(git): update complete commit tree proof
 * c20a0fa docs(git): add complete commit tree proof
 * cb25349 docs(screenshots): add laboratory verification proofs
 * 61181e3 docs(git): update ASCII commit history proof
